@@ -2503,7 +2503,21 @@ normally used in seasonal auto-save.
 
 remove-stress
 =============
-Sets stress to -1,000,000; the normal range is 0 to 500,000 with very stable or very stressed dwarves taking on negative or greater values respectively.  Applies to the selected unit, or use "remove-stress -all" to apply to all units.
+Sets stress to -1,000,000; the normal range is 0 to 500,000 with very stable
+or very stressed dwarves taking on negative or greater values respectively.
+Applies to the selected unit, or use "remove-stress -all" to apply to all units.
+
+save-output
+===========
+Saves the output of a command to a file.  Usage::
+
+    save-output filename command [args]
+
+This is particularly useful for saving the output of ``workflow list-commands``
+or ``autobutcher list_export`` to a file; you can then reload these settings
+with ``script filename`` to move them between saves or people.
+
+Does not work yet.
 
 setfps
 ======
