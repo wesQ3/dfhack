@@ -266,7 +266,7 @@ descriptions = {
                 "cloth and a water source."},
     PIPE_SECTION = {
                 "An enormous piece of pipe, it is a part of a screw pump."},
-    QUERN = {},
+    QUERN = {   "A stone plant, grain, and seed mill, operated by hand."},
     QUIVER = {},
     RING = {    "A ring is an item of jewellery, which does not interfere with",
                 "wearing other equipment.  Eleven rings can be worn on each finger",
