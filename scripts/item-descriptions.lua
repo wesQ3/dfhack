@@ -259,7 +259,9 @@ descriptions = {
     MEAT = {    "Butchering an animal gives meat, the amount depending on the size",
                 "of the butchered animal. Along with plants, meat is the",
                 "backbone of every food industry."},
-    MILLSTONE = {},
+    MILLSTONE = {
+                "A large grinding stone, used in a mill to produce flour, sugar,"
+                "and dyes. It is too large to be operated by hand."},
     ORTHOPEDIC_CAST = {
                 "Casts are made from plaster, and are used to keep broken bones in",
                 "place until they are healed. Applying a cast requires a bucket,",
