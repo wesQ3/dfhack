@@ -290,5 +290,7 @@ descriptions = {
                 "Used to build traps, levers and other machines."},
     WEAPONRACK = {},
     WINDOW = {},
-    WOOD = {}
+    WOOD = {    "A porous and fibrous structural tissue found in the stems and roots",
+                "of trees, useful for building beds, barrels, and insulting crafts",
+                "for the tree-folk."}
 }
